@@ -1,0 +1,220 @@
+{
+  "users": [
+    {
+      "id": "user_004",
+      "name": "Diana Prince",
+      "avatarURL": "https://randomuser.me/api/portraits/women/38.jpg",
+      "stories": [
+        {
+          "id": "story_007",
+          "mediaURL": "https://picsum.photos/id/66/1920/1080",
+          "mediaType": "image",
+          "timestamp": "2025-06-30T11:20:00Z",
+          "isSeen": false,
+          "duration": 10
+        }
+      ]
+    },
+    {
+      "id": "user_005",
+      "name": "Ethan Hunt",
+      "avatarURL": "https://randomuser.me/api/portraits/men/27.jpg",
+      "stories": [
+        {
+          "id": "story_008",
+          "mediaURL": "https://picsum.photos/id/12/1920/1080",
+          "mediaType": "image",
+          "timestamp": "2025-06-30T12:00:00Z",
+          "isSeen": false,
+          "duration": 9
+        },
+        {
+          "id": "story_009",
+          "mediaURL": "https://videos.pexels.com/video-files/32637610/13917326_1440_2560_30fps.mp4",
+          "mediaType": "video",
+          "timestamp": "2025-06-30T12:02:00Z",
+          "isSeen": false,
+          "duration": 7
+        }
+      ]
+    },
+    {
+      "id": "user_006",
+      "name": "Fiona Gallagher",
+      "avatarURL": "https://randomuser.me/api/portraits/women/22.jpg",
+      "stories": [
+        {
+          "id": "story_010",
+          "mediaURL": "https://picsum.photos/id/87/1920/1080",
+          "mediaType": "image",
+          "timestamp": "2025-06-30T13:10:00Z",
+          "isSeen": false,
+          "duration": 3
+        }
+      ]
+    },
+    {
+      "id": "user_007",
+      "name": "George Martin",
+      "avatarURL": "https://randomuser.me/api/portraits/men/54.jpg",
+      "stories": [
+        {
+          "id": "story_011",
+          "mediaURL": "https://picsum.photos/id/34/1920/1080",
+          "mediaType": "image",
+          "timestamp": "2025-06-30T14:00:00Z",
+          "isSeen": false,
+          "duration": 4
+        },
+        {
+          "id": "story_012",
+          "mediaURL": "https://videos.pexels.com/video-files/27497252/12153786_1440_2560_30fps.mp4",
+          "mediaType": "video",
+          "timestamp": "2025-06-30T14:05:00Z",
+          "isSeen": false,
+          "duration": 6
+        }
+      ]
+    },
+    {
+      "id": "user_008",
+      "name": "Hannah Baker",
+      "avatarURL": "https://randomuser.me/api/portraits/women/13.jpg",
+      "stories": [
+        {
+          "id": "story_013",
+          "mediaURL": "https://picsum.photos/id/29/1920/1080",
+          "mediaType": "image",
+          "timestamp": "2025-06-30T15:30:00Z",
+          "isSeen": false,
+          "duration": 6
+        },
+        {
+          "id": "story_014",
+          "mediaURL": "https://videos.pexels.com/video-files/32646352/13919908_1080_1920_30fps.mp4",
+          "mediaType": "video",
+          "timestamp": "2025-06-30T15:35:00Z",
+          "isSeen": false,
+          "duration": 7
+        }
+      ]
+    }
+    ,
+    {
+      "id": "user_009",
+      "name": "Isabella Cruz",
+      "avatarURL": "https://randomuser.me/api/portraits/women/30.jpg",
+      "stories": [
+        {
+          "id": "story_015",
+          "mediaURL": "https://picsum.photos/id/4/1920/1080",
+          "mediaType": "image",
+          "timestamp": "2025-06-30T16:10:00Z",
+          "isSeen": false,
+          "duration": 3
+        },
+        {
+          "id": "story_016",
+          "mediaURL": "https://videos.pexels.com/video-files/32693798/13938439_1080_1920_30fps.mp4",
+          "mediaType": "video",
+          "timestamp": "2025-06-30T16:15:00Z",
+          "isSeen": false,
+          "duration": 9
+        }
+      ]
+    },
+    {
+      "id": "user_010",
+      "name": "Liam Patel",
+      "avatarURL": "https://randomuser.me/api/portraits/men/41.jpg",
+      "stories": [
+        {
+          "id": "story_017",
+          "mediaURL": "https://picsum.photos/id/51/1920/1080",
+          "mediaType": "image",
+          "timestamp": "2025-06-30T17:00:00Z",
+          "isSeen": false,
+          "duration": 8
+        },
+        {
+          "id": "story_018",
+          "mediaURL": "https://videos.pexels.com/video-files/5460987/5460987-uhd_1440_2560_30fps.mp4",
+          "mediaType": "video",
+          "timestamp": "2025-06-30T17:05:00Z",
+          "isSeen": false,
+          "duration": 10
+        }
+      ]
+    }
+    ,
+    {
+      "id": "user_011",
+      "name": "Natalie Adams",
+      "avatarURL": "https://randomuser.me/api/portraits/women/55.jpg",
+      "stories": [
+        {
+          "id": "story_019",
+          "mediaURL": "https://picsum.photos/id/76/1920/1080",
+          "mediaType": "image",
+          "timestamp": "2025-06-30T18:00:00Z",
+          "isSeen": false,
+          "duration": 4
+        },
+        {
+          "id": "story_020",
+          "mediaURL": "https://videos.pexels.com/video-files/7657139/7657139-hd_1080_1920_25fps.mp4",
+          "mediaType": "video",
+          "timestamp": "2025-06-30T18:05:00Z",
+          "isSeen": false,
+          "duration": 7
+        }
+      ]
+    },
+    {
+      "id": "user_012",
+      "name": "Oscar Navarro",
+      "avatarURL": "https://randomuser.me/api/portraits/men/38.jpg",
+      "stories": [
+        {
+          "id": "story_021",
+          "mediaURL": "https://picsum.photos/id/10/1920/1080",
+          "mediaType": "image",
+          "timestamp": "2025-06-30T18:30:00Z",
+          "isSeen": false,
+          "duration": 3
+        },
+        {
+          "id": "story_022",
+          "mediaURL": "https://videos.pexels.com/video-files/32679329/13932304_1080_1920_60fps.mp4",
+          "mediaType": "video",
+          "timestamp": "2025-06-30T18:35:00Z",
+          "isSeen": false,
+          "duration": 5
+        }
+      ]
+    },
+    {
+      "id": "user_013",
+      "name": "Priya Kaur",
+      "avatarURL": "https://randomuser.me/api/portraits/women/51.jpg",
+      "stories": [
+        {
+          "id": "story_023",
+          "mediaURL": "https://picsum.photos/id/85/1920/1080",
+          "mediaType": "image",
+          "timestamp": "2025-06-30T19:00:00Z",
+          "isSeen": false,
+          "duration": 6
+        },
+        {
+          "id": "story_024",
+          "mediaURL": "https://videos.pexels.com/video-files/30707533/13138373_1080_1922_50fps.mp4",
+          "mediaType": "video",
+          "timestamp": "2025-06-30T19:05:00Z",
+          "isSeen": false,
+          "duration": 9
+        }
+      ]
+    }
+  ]
+}

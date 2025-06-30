@@ -1,0 +1,73 @@
+{
+    "users": [
+        {
+          "id": "user_001",
+          "name": "Alice Johnson",
+          "avatarURL": "https://randomuser.me/api/portraits/women/65.jpg",
+          "stories": [
+            {
+              "id": "story_001",
+              "mediaURL": "https://picsum.photos/id/57/1920/1080",
+              "mediaType": "image",
+              "timestamp": "2025-06-30T08:00:00Z",
+              "isSeen": false,
+              "duration": 8
+            },
+            {
+              "id": "story_002",
+              "mediaURL": "https://videos.pexels.com/video-files/31985718/13630581_1440_2560_30fps.mp4",
+              "mediaType": "video",
+              "timestamp": "2025-06-30T08:05:00Z",
+              "isSeen": false,
+              "duration": 5
+            }
+          ]
+        },
+        {
+          "id": "user_002",
+          "name": "Bob Smith",
+          "avatarURL": "https://randomuser.me/api/portraits/men/12.jpg",
+          "stories": [
+            {
+              "id": "story_003",
+              "mediaURL": "https://picsum.photos/id/23/1920/1080",
+              "mediaType": "image",
+              "timestamp": "2025-06-30T09:15:00Z",
+              "isSeen": false,
+              "duration": 7
+            },
+            {
+              "id": "story_004",
+              "mediaURL": "https://videos.pexels.com/video-files/32662641/13925931_1440_2560_30fps.mp4",
+              "mediaType": "video",
+              "timestamp": "2025-06-30T09:20:00Z",
+              "isSeen": false,
+              "duration": 9
+            }
+          ]
+        },
+        {
+          "id": "user_003",
+          "name": "Charlie Lee",
+          "avatarURL": "https://randomuser.me/api/portraits/men/34.jpg",
+          "stories": [
+            {
+              "id": "story_005",
+              "mediaURL": "https://picsum.photos/id/48/1920/1080",
+              "mediaType": "image",
+              "timestamp": "2025-06-30T10:00:00Z",
+              "isSeen": false,
+              "duration": 6
+            },
+            {
+              "id": "story_006",
+              "mediaURL": "https://videos.pexels.com/video-files/8462510/8462510-uhd_1440_2732_25fps.mp4",
+              "mediaType": "video",
+              "timestamp": "2025-06-30T10:03:00Z",
+              "isSeen": false,
+              "duration": 4
+            }
+          ]
+        }
+    ]
+}
