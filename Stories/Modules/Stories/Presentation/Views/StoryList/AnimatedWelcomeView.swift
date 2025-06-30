@@ -18,12 +18,12 @@ struct AnimatedWelcomeView: View {
         VStack(spacing: 0) {
             VStack(spacing: 4) {
                 Spacer()
-                Text("Hello Voodoo")
+                Text("Welcome to")
                     .font(.largeTitle)
                     .fontWeight(.bold)
                     .foregroundColor(.white)
                     .animatedAppearance(showTitle, offset: CGSize(width: 0, height: 20), duration: 1.0)
-                Text("Technical challenge")
+                Text("My Technical challenge")
                     .font(.subheadline)
                     .foregroundColor(.white.opacity(0.9))
                     .animatedAppearance(showSubtitle, offset: CGSize(width: 0, height: 20), duration: 1.0)
